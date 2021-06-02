@@ -6,7 +6,7 @@ title: Zijian Hu
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. candidate in the Hong Kong Polytechnic University
+role: Ph.D. candidate at the Hong Kong Polytechnic University
 
 # Organizations/Affiliations to show in About widget
 organizations:
