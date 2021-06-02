@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Zijian Hu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. candidate in the Hong Kong Polytechnic University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Hong Kong Polytechnic University
+  url: https://www.polyu.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
