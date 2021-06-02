@@ -68,6 +68,6 @@ highlight_name: false
 ---
 My name is Zjian Hu (胡子键 in Chinese). I was born is Beijing, China and lived there for more than 20 years.
 
-Currently, I am a Ph.D. candidate of Civil and Environmental Engineering under the supervision of Dr. [Wei Ma](http://weima171.com/) at the Hong Kong Polytechnic University. Before pursuing my Ph.D. degree, I obtained the B.S. degree of Computer Science in the Beijing Normal University. My Final Year Project advisor is [Hao Wu](http://aien.bnu.edu.cn/faculty/hao-wu/)/. The key word of my current research interests is large-scale, including but not limited to large-scale traffic simulation, large-scale traffic control and management, and large-scale Dynamic User Equilibrium (DUE).
+Currently, I am a Ph.D. candidate of Civil and Environmental Engineering under the supervision of Dr. [Wei Ma](http://weima171.com/) at the Hong Kong Polytechnic University. Before pursuing my Ph.D. degree, I obtained the B.S. degree of Computer Science in the Beijing Normal University. My Final Year Project advisor is [Hao Wu](http://aien.bnu.edu.cn/faculty/hao-wu/). The key word of my current research interests is large-scale, including but not limited to large-scale traffic simulation, large-scale traffic control and management, and large-scale Dynamic User Equilibrium (DUE).
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
