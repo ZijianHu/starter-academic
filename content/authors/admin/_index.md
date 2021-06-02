@@ -45,10 +45,10 @@ social:
   link: "/#contact"
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: "/#contact"
 - icon: github
   icon_pack: fab
-  link: https://github.com/zjianhu-polyu
+  link: https://github.com/ZjianHu-polyu
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/zijian-hu-43556a1a5/
@@ -66,9 +66,8 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+My name is Zjian Hu (胡子键 in Chinese). I was born is Beijing, China and lived there for more than 20 years.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Currently, I am a Ph.D. candidate of Civil and Environmental Engineering under the supervision of Dr. [Wei Ma](http://weima171.com/) at the Hong Kong Polytechnic University. Before pursuing my Ph.D. degree, I obtained the B.S. degree of Computer Science in the Beijing Normal University. My Final Year Project advisor is [Hao Wu](http://aien.bnu.edu.cn/faculty/hao-wu/)/. The key word of my current research interests is large-scale, including but not limited to large-scale traffic simulation, large-scale traffic control and management, and large-scale Dynamic User Equilibrium (DUE).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
