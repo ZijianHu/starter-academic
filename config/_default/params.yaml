@@ -77,7 +77,7 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-math: false
+math: true
 diagram: false
 privacy_pack: false
 edit_page:
@@ -156,3 +156,4 @@ cms:
 icon:
   pack:
     ai: true
+plugins_css: "custom"
