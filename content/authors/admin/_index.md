@@ -40,10 +40,10 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:zijian.hu@connect.polyu.hk'
-- icon: twitter
-  icon_pack: fab
-  link: "/#contact"
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+# - icon: twitter
+#   icon_pack: fab
+#   link: "/#contact"
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: "/#contact"
 - icon: github
