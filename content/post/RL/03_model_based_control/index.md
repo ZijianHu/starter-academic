@@ -3,7 +3,7 @@
 
 title: "RL Overview #03: Model-based Evaluation and Control"
 subtitle: ""
-summary: "In this blog, methods for evaluating and improving the policy will be introduced. All materials refer ot the RL cource \"Intro to Reinforcement Learning by Bolei Zhou\", https://github.com/zhoubolei"
+summary: "In this blog, model-based RL methods for evaluating and improving the policy will be introduced. All materials refer ot the RL cource \"Intro to Reinforcement Learning by Bolei Zhou\", https://github.com/zhoubolei"
 authors: [Zijian Hu]
 tags: [Reinforcement Learning]
 categories: [Reinforcement Learning]
