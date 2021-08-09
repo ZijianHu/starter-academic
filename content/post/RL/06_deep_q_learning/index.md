@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Deep Q-Learning"
+title: "RL Overview #06: Deep Q-Learning"
 subtitle: ""
 summary: "In this blog, DQN and its improvment verions will be introduced. All materials refer ot the RL cource \"Intro to Reinforcement Learning by Bolei Zhou\", https://github.com/zhoubolei"
 authors: [Zijian Hu]

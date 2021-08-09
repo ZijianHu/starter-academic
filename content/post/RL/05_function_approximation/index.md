@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Value Function Approximation"
+title: "RL Overview #05: Value Function Approximation"
 subtitle: ""
 summary: "In this blog,Methods for value function approximation will be introduced. All materials refer ot the RL cource \"Intro to Reinforcement Learning by Bolei Zhou\", https://github.com/zhoubolei"
 authors: [Zijian Hu]
