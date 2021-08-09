@@ -90,6 +90,14 @@ when $n \rightarrow \inf$, $TD(n)$ equals to MC
 ### Comparison for DP, MC and TD
 #### Comparison
 ![image info](assets/DPMCTD.png)
++ Bootstrapping: update involves an estimate
+    + MC does not bootstrap
+    + DP bootstraps
+    + TD bootstraps
++ Sampling: update samples an expectation
+    + MC samples
+    + DP does not sample
+    + TD samples
 #### DP
 ![image info](assets/DP.png)
 #### MC

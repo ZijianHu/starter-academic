@@ -4,7 +4,7 @@
 title: "RL Overview #01: Introduction"
 subtitle: ""
 summary: "In this blog, some basic concepts of RL will be introduced. All materials refer to the RL course \"*Intro to Reinforcement Learning by Bolei Zhou*\", https://github.com/zhoubolei/introRL"
-authors: []
+authors: [Zijian Hu]
 tags: [Reinforcement Learning]
 categories: [Reinforcement Learning]
 date: 2021-08-04T14:56:51+08:00

@@ -4,7 +4,7 @@
 title: "RL Overview #02: Markov Process"
 subtitle: ""
 summary: "In this blog, some basic concepts of Markov Process (MP), Markov Reward Process (MRP) and Markov Decision Process (MDP) will be introduced. All materials refer ot the RL cource \"Intro to Reinforcement Learning by Bolei Zhou\", https://github.com/zhoubolei"
-authors: []
+authors: [Zijian Hu]
 tags: [Reinforcement Learning]
 categories: [Reinforcement Learning]
 date: 2021-08-05T23:00:53+08:00
